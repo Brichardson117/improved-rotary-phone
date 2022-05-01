@@ -2,16 +2,16 @@
 
   ## License
   
-  ###This project uses MIT_License
+  ### This project uses Apache_License_2.0
   
-  [MIT_License](https://opensource.org/license/MIT_License)
+  [Apache_License_2.0](https://opensource.org/license/Apache_License_2.0)
   
   
-  ![MIT_License](https://shields.io/badge/license-MIT_License-brightgreen)
+  ![Apache_License_2.0](https://shields.io/badge/license-Apache_License_2.0-brightgreen)
   
 
   ## Description
-  I created a command-line program that generates a professional README.md file based on user input in the command line
+  commandline application to generate readme
   
   
   ## Table Of Contents
@@ -23,12 +23,12 @@
   
 
   ## Installation
-  clone this repository to your local machine, run node in your command line and answer the prompts accordingly
+  clone github repository, use command line and node to run prompts used to generate readme
 
   ## Usage
-  
+  use to generate professional readme
 
-  ##Credits
+  ## Credits
   
 
   ##Contributing
@@ -38,7 +38,7 @@
   ## Tests
   undefined
 
-  ##Questions
+  ## Questions
 If you have additional questions you can reach me here brittneyrichardson8@gmail.com and https://github.com/Brichardson117
 
 
