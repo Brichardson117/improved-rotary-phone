@@ -1,4 +1,4 @@
-# README
+# README generator
 
   ## License
   
@@ -11,7 +11,7 @@
   
 
   ## Description
-  generate
+  I created a command-line program that generates a professional README.md file based on user input in the command line
   
   
   ## Table Of Contents
@@ -23,16 +23,16 @@
   
 
   ## Installation
-  Steps
+  clone this repository to your local machine, run node in your command line and answer the prompts accordingly
 
   ## Usage
-  Steps
+  
 
   ##Credits
-  None
+  
 
   ##Contributing
-    No
+    
 
 
   ## Tests
