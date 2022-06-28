@@ -4,7 +4,8 @@
 
   ## License
   
-  ### This project uses Apache_License_2.0
+  ### 
+  This project uses Apache_License_2.0
   
   [Apache_License_2.0](https://opensource.org/license/Apache_License_2.0)
   
@@ -13,19 +14,18 @@
   
 
   ## Description
-  commandline application to generate readme
+ Made for developers who have difficulties developing professional looking README.md. This command line application is used to develop professional README.md files for your project.
   
   
   ## Table Of Contents
   * [Installation](#installation)
   * [Usage](#usage)
-  * [Credits](#credits)
   * [License](#license)
   * [Questions](#Questions)
   
 
   ## Installation
-  clone github repository, use command line and node to run prompts used to generate readme
+  clone github repository, run npm i to install all needed dependencies, use command line and node index.js to run prompts used to generate your READEME.md for your project!
 
   ## Usage
   use to generate professional readme
